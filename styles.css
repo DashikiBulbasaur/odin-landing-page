@@ -5,15 +5,14 @@ body {
   min-height: 98vh;
 }
 
-.header,
-.section-1,
+.blue-section,
 .footer {
   background-color: #1F2937;
 }
 
 .header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   height: 72px;
   color: white;
 }
