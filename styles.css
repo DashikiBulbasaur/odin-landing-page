@@ -12,13 +12,66 @@ body {
 
 .header {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   height: 72px;
   color: white;
+  font-weight: bold;
 }
 
-.section-1 {
+.section-1-container {
   display: flex;
   height: 72px;
   justify-content: space-between;
+}
+
+.awesome-website {
+  display: flex;
+  flex-direction: column;
+}
+
+.section-1-image {
+  background-color: gray;
+  width: 650px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blue-section {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-top: 10px;
+  height: 25vh;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-left: 30px;
+}
+
+.subtext {
+  color: lightgray;
+  font-size: 90%;
+}
+
+.section-1-title {
+  color: white;
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.footer {
+  height: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
