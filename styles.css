@@ -72,6 +72,16 @@ li {
   margin-left: 30px;
 }
 
+button {
+  background-color: #3882F6;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 10px;
+  color: #F9FAF8;
+}
+
 .footer {
   height: 50px;
   color: white;
