@@ -2,7 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 100vh;
+  height: 150vh;
   font-family: Roboto, sans-serif;
 }
 
@@ -58,7 +58,7 @@ body {
   padding-right: 200px;
   padding-bottom: 30px;
   padding-top: 10px;
-  height: 30vh;
+  height: 30%;
 }
 
 ul {
@@ -89,7 +89,7 @@ button {
   align-items: center;
   padding-top: 30px;
   padding-bottom: 30px;
-  height: 20vh
+  height: 20%;
 }
 
 .random-info {
@@ -100,7 +100,6 @@ button {
 
 .image-and-subtext-container {
   display: flex;
-  gap: 30px;
 }
 
 .image-and-subtext {
@@ -111,22 +110,27 @@ button {
 
 .section-2-box {
   height: 100px;
-  width: 30px;
   border: 2px solid #3882F6;
   border-radius: 25px;
 }
 
+.section-2-text {
+  display: flex;
+  flex-wrap: wrap;
+  width: 30%;
+}
+
 .section-3 {
-  height: 20vh;
+  height: 20%;
   background-color: #E5E7EB;
 }
 
 .section-4 {
-  height: 20vh;
+  height: 20%;
 }
 
 .footer {
-  height: 5vh;
+  height: 5%;
   color: white;
   display: flex;
   justify-content: center;
