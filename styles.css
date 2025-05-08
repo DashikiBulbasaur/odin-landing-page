@@ -124,6 +124,7 @@ button {
   display: flex;
   flex-wrap: wrap;
   width: 40%;
+  text-align: center;
 }
 
 .section-3 {
