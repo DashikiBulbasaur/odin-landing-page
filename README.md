@@ -1,7 +1,7 @@
 # odin-landing-page
 
-This is a landing page project according to the specifications [here]
-(https://www.theodinproject.com/lessons/foundations-landing-page). It's made mostly with
+This is a landing page project according to the specifications
+[here](https://www.theodinproject.com/lessons/foundations-landing-page). It's made mostly with
 flexbox properties. In my opinion, it's a good project to really get your feet wet with
 flexbox.
 
